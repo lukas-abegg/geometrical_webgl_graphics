@@ -20,7 +20,7 @@ To open, run **generated_colored_surfaces.html**.
 ![Image flying spheres](./generated_colored_surfaces/generated_colored_surfaces.png)
 
 ## Geometrical bodies
-Here you can seem different geometrical bodies:
+Here you can see different geometrical bodies:
 
 * Cresent
 * Hyperbolic Helicoid
